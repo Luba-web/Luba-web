@@ -17,25 +17,13 @@ I like to develop apps and websites. I have completed several training projects 
 - Graphics: Figma
 - Aimation: GSAP
 
-#### CODE
-
-function right_arrow() {
-  if (to < mas.length - 1) {
-    to++;
-    obj.src = mas[to];
-  } else {
-    to = 0;
-    obj.src = mas[to];
-  }
-}
-
 #### COURSES
 
 [Profession web developer in Yandex Practicum](https://practicum.yandex.ru/web-plus/)
 
 #### PROJECTS
 
-1. [Mesto](https://luba-web.github.io/mesto-project/)
+1. [Mesto](https://loown101.github.io/mesto-project/index.html)
 2. [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
 
 
