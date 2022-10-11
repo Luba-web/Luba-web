@@ -1,11 +1,11 @@
 
 ## Hi there 👋
-### My name is _Lyubove_ :grinning:
+### My name is _Lyubov_ :grinning:
 ______________________
 
 #### **about me**
 
-I like to develop apps and websites. I have completed several training projects and am learning something new every day. My goal is to learn pure JavaScript at an excellent level, use the React library, Redux. My hobby is code and sports in any form (running, swimming, skiing and much more).
+I like to develop apps and websites. I have completed several training projects and am learning something new every day. My goal is to learn pure JavaScript at an excellent level. My hobby is code and sports in any form (running, swimming, skiing and much more).
 
 #### SKILLS
 
@@ -14,7 +14,7 @@ I like to develop apps and websites. I have completed several training projects 
 - Version control: GIT, GitHub
 - Methodology: BEM
 - Graphics: Figma
-- Aimation: GSAP
+- Animation: GSAP
 
 #### COURSES
 
