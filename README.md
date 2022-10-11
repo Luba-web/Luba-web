@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Luba-web/Luba-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+### My name is _Lyubove_ :grinning:
+______________________
 
-Here are some ideas to get you started:
+#### **about me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to develop apps and websites. I have completed several training projects and am learning something new every day. My goal is to learn pure JavaScript at an excellent level, use the React library, Redux. My hobby is code and sports in any form (running, swimming, skiing and much more).
+
+#### SKILLS
+
+- Web-development: HTML5, CSS3/SCSS, JavaScript :revolving_hearts:
+- Frameworks and libraries: React, Redux, TypeScript
+- Version control: GIT, GitHub
+- Methodology: BEM
+- Graphics: Figma
+- Aimation: GSAP
+
+#### COURSES
+
+[Profession web developer in Yandex Practicum](https://practicum.yandex.ru/web-plus/)
+
+#### PROJECTS
+
+1. [Mesto](https://loown101.github.io/mesto-project/index.html)
+2. [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
+
+
+#### ENGLISH
+
+Beginner
+
