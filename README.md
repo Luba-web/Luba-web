@@ -5,7 +5,7 @@ ______________________
 
 #### **about me**
 
-I like to develop apps and websites. I have completed several training projects and am learning something new every day. My goal is to learn pure JavaScript at an excellent level. My hobby is code and sports in any form (running, swimming, skiing and much more).
+I like to develop apps and websites. I have completed several training projects and am learning something new every day. My goal is to learn pure JavaScript at an excellent level. My hobby is code and sports in any form (running, swimming, skiing and other).
 
 #### SKILLS
 
@@ -21,7 +21,7 @@ I like to develop apps and websites. I have completed several training projects 
 [Profession web developer in Yandex Practicum](https://practicum.yandex.ru/web-plus/)
 
 #### PROJECTS
-
+1. [Auto-Magazine](https://luba-web.github.io/Auto-Magazine/)
 1. [Traveling in Russia](https://luba-web.github.io/russian-travel/)
 2. [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
 
