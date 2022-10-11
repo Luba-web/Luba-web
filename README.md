@@ -22,9 +22,14 @@ I like to develop apps and websites. I have completed several training projects 
 
 #### PROJECTS
 
-1. [Mesto](https://loown101.github.io/mesto-project/index.html)
-2. [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
+1. [Traveling in Russia](https://luba-web.github.io/russian-travel/)
+2. [Auto-Magazine](https://luba-web.github.io/Auto-Magazine/)
+3. [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
 
+#### TEAM PROJECTS
+
+1. [Mesto](https://loown101.github.io/mesto-project/index.html)
+2. [Wildlife](https://luba-web.github.io/Wildlife/)
 
 #### ENGLISH
 
