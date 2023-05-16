@@ -26,8 +26,8 @@ ______________________
 - Docker, Docker-compose
 
 #### Курсы
-1.[React для JS-разработчиков in Netology](https://netology.ru/programs/react)
-2.[Profession web developer in Yandex Practicum](https://practicum.yandex.ru/web-plus/)
+1. [React для JS-разработчиков in Netology](https://netology.ru/programs/react)
+2. [Profession web developer in Yandex Practicum](https://practicum.yandex.ru/web-plus/)
 
 #### Проекты
 1. [Auto-Magazine](https://luba-web.github.io/Auto-Magazine/)
@@ -35,13 +35,13 @@ ______________________
 3. [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
 
 #### Деплой приложения на сервер с использованием pm2
-Frontend: https://mesto.luba-web.nomoredomains.work/
-Backend: https://api.mesto.luba-web.nomoredomains.work/
+- Frontend: https://mesto.luba-web.nomoredomains.work/
+- Backend: https://api.mesto.luba-web.nomoredomains.work/
 Проект загрузки фотографий
 
 #### Докеризация приложения
-Frontend: https://kpd.luba-web.nomoredomains.work
-Backend: https://api.kpd.luba-web.nomoredomains.work
+- Frontend: https://kpd.luba-web.nomoredomains.work
+- Backend: https://api.kpd.luba-web.nomoredomains.work
 Проект краудфандинг подарков
 
 #### Командные проекты
