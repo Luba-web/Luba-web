@@ -26,8 +26,8 @@ ______________________
 - Docker, Docker-compose
 
 #### Курсы
-[React для JS-разработчиков in Netology](https://netology.ru/programs/react)
-[Profession web developer in Yandex Practicum](https://practicum.yandex.ru/web-plus/)
+1.[React для JS-разработчиков in Netology](https://netology.ru/programs/react)
+2.[Profession web developer in Yandex Practicum](https://practicum.yandex.ru/web-plus/)
 
 #### Проекты
 1. [Auto-Magazine](https://luba-web.github.io/Auto-Magazine/)
