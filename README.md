@@ -33,6 +33,7 @@ ______________________
 1. [Auto-Magazine](https://luba-web.github.io/Auto-Magazine/)
 2. [Traveling in Russia](https://luba-web.github.io/russian-travel/)
 3. [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
+4. [Algososh](https://luba-web.github.io/algososh/)
 
 #### Деплой приложения на сервер с использованием pm2
 - Frontend: https://mesto.luba-web.nomoredomains.work/
