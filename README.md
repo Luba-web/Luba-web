@@ -37,12 +37,12 @@ ______________________
 4. [Algososh](https://luba-web.github.io/algososh/)
 
 #### Деплой приложения на сервер с использованием pm2
-### Проект загрузки фотографий
+##### Проект загрузки фотографий
 - Frontend: https://mesto.luba-web.nomoredomains.work/
 - Backend: собственная разработка
 
 #### Докеризация приложения
-### Проект краудфандинг подарков
+##### Проект краудфандинг подарков
 - Frontend: https://kpd.luba-web.nomoredomains.work
 - Backend: собственная разработка
 
