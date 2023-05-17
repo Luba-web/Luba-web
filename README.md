@@ -45,7 +45,6 @@ ______________________
 ### Проект краудфандинг подарков
 - Frontend: https://kpd.luba-web.nomoredomains.work
 - Backend: собственная разработка
-Проект краудфандинг подарков
 
 #### Командные проекты
 1. [Mesto](https://loown101.github.io/mesto-project/index.html)
