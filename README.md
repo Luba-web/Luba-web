@@ -38,16 +38,23 @@ ______________________
 
 #### Деплой приложения на сервер с использованием pm2
 ##### Проект загрузки фотографий
-- Frontend: https://mesto.luba-web.nomoredomains.work/
-- Backend: собственная разработка
+[Frontend](https://mesto.luba-web.nomoredomains.work/)
+Backend: NodeJS, Express, MongoDB, Mongoose, PM2
 
 #### Докеризация приложения
 ##### Проект краудфандинг подарков
-- Frontend: https://kpd.luba-web.nomoredomains.work
-- Backend: собственная разработка
+[Frontend](https://kpd.luba-web.nomoredomains.work)
+Backend: Nest, PostgreSQL, TypeORM, Docker, Docker-compose
 
-#### Командные проекты
+
+#### Парные проекты
 1. [Mesto](https://loown101.github.io/mesto-project/index.html)
 2. [Wildlife](https://luba-web.github.io/Wildlife/)
-3. [Museum](https://loown101.github.io/Museum/)
 
+#### Командные проекты
+1. Не коммерческая командная разработка одной из страниц для Liza-Alert с использованием технологий HTML, CSS, JS: [Ссылка](https://github.com/alexghz81/liza-alert)
+Приложение с курсами для обучения волонтеров, кинологов.
+2. Не коммерческая командная разработка проекта "Прожито" использованием React, TS, RESTfull API, React Router 6: [Ссылка](https://github.com/Kamil-Kalandarov/Prozhito/tree/develop_team_02)
+Приложение собирает, описывает и публикует документы личного происхождения.
+3. Не коммерческая командная разработка проекта "Я помогаю" использованием React, TS, RESTfull API, Sass [Ссылка](https://github.com/kuzinartemiy/im-helping)
+Приложение для волонтеров и реципиентов.
