@@ -31,10 +31,11 @@ ______________________
 2. [Profession web developer in Yandex Practicum](https://practicum.yandex.ru/web-plus/)
 
 #### Проекты
-1. [Auto-Magazine](https://luba-web.github.io/Auto-Magazine/)
-2. [Traveling in Russia](https://luba-web.github.io/russian-travel/)
-3. [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
-4. [Algososh](https://luba-web.github.io/algososh/)
+1. Лендинг [Traveling in Russia](https://luba-web.github.io/russian-travel/)
+2. Создание космической бургерной [Stellar Burgers](https://luba-web.github.io/stellar-burgers/)
+3. Визулизация алгоритмов [Algososh](https://luba-web.github.io/algososh/)
+4. Краундфайдинг подарков [Kpd](https://kpd.luba-web.nomoredomains.work/gifts/line)
+5. Размещение фотографий и сбор лайков [Mesto](https://mesto.luba-web.nomoredomains.work/)
 
 #### Деплой приложения на сервер с использованием pm2
 ##### Проект загрузки фотографий
@@ -58,3 +59,4 @@ Backend: Nest, PostgreSQL, TypeORM, Docker, Docker-compose
 Приложение собирает, описывает и публикует документы личного происхождения.
 3. Не коммерческая командная разработка проекта "Я помогаю" использованием React, TS, RESTfull API, Sass [Ссылка](https://github.com/kuzinartemiy/im-helping)
 Приложение для волонтеров и реципиентов.
+4. Pet проект семейный бюджет с использованием React, RTK, JS, RESTfull API, Sass [Ссылка](https://budgetfamily.ru/)
