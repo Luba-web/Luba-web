@@ -59,4 +59,4 @@ Backend: Nest, PostgreSQL, TypeORM, Docker, Docker-compose
 Приложение собирает, описывает и публикует документы личного происхождения.
 3. Не коммерческая командная разработка проекта "Я помогаю" использованием React, TS, RESTfull API, Sass [Ссылка](https://github.com/kuzinartemiy/im-helping)
 Приложение для волонтеров и реципиентов.
-4. Pet проект семейный бюджет с использованием React, RTK, JS, RESTfull API, Sass [Ссылка](https://budgetfamily.ru/)
+4. Pet проект семейный бюджет с использованием React, RTK, JS, RESTfull API, Sass [Ссылка](https://github.com/InCoinFamily/InCoin)
